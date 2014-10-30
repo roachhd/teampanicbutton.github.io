@@ -6,7 +6,6 @@ permalink: /:categories/:title.html
 exclude:
   - .gitignore
   - README.md
-  - privatekey.p12
   - Gemfile
   - Gemfile.lock
 languages: &languages
